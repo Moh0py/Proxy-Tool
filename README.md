@@ -3,7 +3,7 @@
 # Proxy Scanner
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/M-JABBARI/proxy-scanner/main/assets/logo.png" alt="Proxy Scanner Logo" width="150"/>
+ 
   <h1>Proxy Scanner</h1>
   <p>A powerful and efficient Python script to fetch, test, and validate free proxies from multiple public sources concurrently.</p>
 
@@ -95,10 +95,6 @@ Upon completion, the script generates two files:
 2.  **`valid_proxies.csv`**: A CSV file with detailed information for each valid proxy, including a header row.
     - **Columns**: `proxy`, `type`, `latency`, `origin`
 
-## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 *© 2025 Mohammad Jabbary*
